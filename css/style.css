@@ -1,10 +1,26 @@
 h1{
+    color: #F08356;
+}
+h1.banner{
     margin: 0px;
     padding: 0px;
     background-color:#3F4DF0;
+    font-size: 60px;
+}
+img.carousel{
+    width: 1200px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+}
+.row{
+    margin-top: 10px;
 }
 img{
     float:left;
+    height: 300px;
+    width: 400px;
 }
 .container {
     position: relative;
@@ -19,7 +35,6 @@ img{
     width: 100%;
 }
 .header img{
-    background-color:#3F4DF0; 
     width: 100px;
     height: 100px;
 }
@@ -30,4 +45,13 @@ img{
 }
 .navbar{
     width: 100%;
+}
+iframe{
+    border:none; 
+    width:100%
+}
+
+.paragraph{
+    background-color: rgba(107, 240, 38, 0.29);
+    padding: 10px;
 }

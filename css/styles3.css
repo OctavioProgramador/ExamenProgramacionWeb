@@ -1,7 +1,7 @@
 h1{
     color: rgb(255, 111, 0);
     font-family: 'Courier New', Courier, monospace;
-    padding-left: 5%;
+    padding-top: 5%;
 }
 .col{
     padding-left: 2%;
@@ -20,6 +20,10 @@ img{
     padding-top: 10%;
     height: 80%;
 }
+#img-section14-col2{
+    padding-top: 10%;
+    height: 80%;
+}
 #img-section3-col1{
     padding-top: 10%;
     height: 80%;
@@ -27,18 +31,23 @@ img{
 #div-section1{
     background-color: rgb(232, 232, 232);
 }
+#div-section2{
+    background-color: rgb(232, 232, 232);
+    text-align: center;
+
+}
 #div-section2-col1{
     justify-content: center;
     text-align: center;
-    width: 33.33%;
+    max-width: 32%;
 }
 #div-section2-col2{
     justify-content: center;
     text-align: center;
-    width: 33.33%;
+    max-width: 32%;
 }
 #div-section2-col3{
     justify-content: center;
     text-align: center;
-    width: 33.33%;
+    max-width: 32%;
 }
